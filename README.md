@@ -1,8 +1,9 @@
 # dscommittee
 Development repository for Data Science Committee material (fa 21)
-Co-Presidents: Isabel Zavian, Kyna Ha
-Data Science Instructor Lead(s): Ashna Wadhwa, Isha Arora
-Data Science Technical Lead: Noor-Ul-Ain Ali
+
+Co-Presidents: Isabel Zavian, Kyna Ha <br />
+Data Science Instructor Lead(s): Ashna Wadhwa, Isha Arora <br />
+Data Science Technical Lead: Noor-Ul-Ain Ali <br />
 
 | Deployment | Notebook  | Data  |
 | :---:      | :-:       | :-: |
