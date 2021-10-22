@@ -5,6 +5,8 @@ Co-Presidents: Isabel Zavian, Kyna Ha <br />
 Data Science Instructor Lead(s): Ashna Wadhwa, Isha Arora <br />
 Data Science Technical Lead: Noor-Ul-Ain Ali <br />
 
+##### Data Science Curriculum
+
 | Deployment | Notebook  | Data  |
 | :---:      | :-:       | :-: |
 | 09-24-2021 | WiCDS Meeting 2. Python Programming and Data Types.ipynb |  |
