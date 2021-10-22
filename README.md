@@ -1,4 +1,4 @@
-# Women in Computing and Data Science (WiCDS) at Berkeley 
+# dscommittee
 Development repository for Data Science Committee material (fa 21)
 
 | Deployment | Notebook  | Data  |
